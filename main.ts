@@ -36,7 +36,7 @@ const VIEW_DEBOUNCE_MS = 120;
 
 // 计时竞速默认值
 const DEFAULT_RIVAL_NAME = "Killer";
-const DEFAULT_RIVAL_SPEED = 1200; // 字/小时
+const DEFAULT_RIVAL_SPEED = 1000; // 字/小时
 const MIN_RIVAL_SPEED = 100;
 const MAX_RIVAL_SPEED = 20000;
 

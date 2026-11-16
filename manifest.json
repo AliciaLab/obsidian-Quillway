@@ -6,7 +6,6 @@
   "description": "Track typed and deleted characters, monitor line-by-line revisions, and follow duel progress as you write.",
   "author": "AliciaLab",
   "authorUrl": "https://github.com/AliciaLabs",
-  "isDesktopOnly": true
+  "isDesktopOnly": true,
   "license": "MIT"
 }
-
