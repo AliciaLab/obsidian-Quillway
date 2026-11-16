@@ -1,6 +1,6 @@
 {
-  "id": "momentum",
-  "name": "Momentum",
+  "id": "quillway",
+  "name": "Quillway",
   "version": "0.7.3",
   "minAppVersion": "1.4.0",
   "description": "Track typed and deleted characters, monitor line-by-line revisions, and follow duel progress as you write.",
@@ -9,3 +9,4 @@
   "isDesktopOnly": true
   "license": "MIT"
 }
+
