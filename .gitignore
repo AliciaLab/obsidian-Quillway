@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Compiled plugin
+main.js
+
+# Obsidian runtime data
+data.json
+
+# Source maps
+*.map
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
